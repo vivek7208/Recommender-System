@@ -1,5 +1,12 @@
 # 🌟 Custom Recommender System using Neural Collaborative Filtering 🧠
 
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/vivek7208/Recommender-System/blob/main/custom-recommender-system.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Preview in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/vivek7208/Recommender-System/blob/main/custom-recommender-system.ipynb)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vivek7208/Recommender-System/blob/main/custom-recommender-system.ipynb)
+
+
 This repository contains a Jupyter notebook 📓 that demonstrates how to build a custom recommender system using Neural Collaborative Filtering (NCF) on Amazon SageMaker ☁️.
 
 ## 📚 About Neural Collaborative Filtering
