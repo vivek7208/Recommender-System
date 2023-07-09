@@ -10,8 +10,7 @@ NCF incorporates the benefits of both collaborative filtering and neural network
 
 ## 🔬 NCF Architecture
 
-<!-- Placeholder: Here you can include a detailed description and diagram of the NCF architecture -->
-![Country estate with an impressionist touch]()
+![NCF Architecture](docs/ncf-architecture.jpeg)
 
 ## 🗂️ Data
 
@@ -53,7 +52,7 @@ To run this notebook, you'll need:
 
 ## 🏗️ Solution Architecture 
 
-<!-- Placeholder: Here you can include a detailed description and diagram of the solution architecture -->
+![Solution Architecture](docs/architecture.png)
 
 ## 🤝 Contribute
 
